@@ -13,4 +13,11 @@ Libertyunix is currently a professor researching cyber and information security.
 
 ### Presented Research
 
+With breaches dominating the headlines, businesses are quickly starting to realize the critical nature of information security. What makes information security so difficult to manage is the fact that an organization can invest endless amounts of money into the 101 solutions that exist and still be pwned with a single email. At the end of the day organizations don’t understand InfoSec and how to properly train employees. Security awareness training is one of three things for most organizations:
+- Stale PowerPoint that teach employees nothing about information security
+- A checkbox on an audit form • 
+- Something they have never heard of 
 
+My current position as landed me various interactions with businesses that are outside the traditional “audit” spectrum of InfoSec. Simply put for the past 10 years organizations have only incorporate some level of InfoSec into the business because they “had to.” The times haves changed as organizations are starting to adopt security because the “need to/want to.” Problem being “Where do I start?” Pulling from past experience as a physical security engineer and penetration tester this talk will discuss various concepts of SE, how organizations can improve their security by properly training employees and how I am currently trying to bring security to organizations via their culture instead of one two hour talk employees only hear once a year if at all.
+
+https://www.irongeek.com/i.php?page=videos/bsidesphilly2016/cj07-where-do-i-start-charles-sgrillo-ii
