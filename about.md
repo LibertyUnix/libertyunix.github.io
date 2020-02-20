@@ -24,8 +24,14 @@ My current position as landed me various interactions with businesses that are o
 
 Talk: (https://www.irongeek.com/i.php?page=videos/bsidesphilly2016/cj07-where-do-i-start-charles-sgrillo-ii)
 
-#### BSIDES Philly 2017 - Introdoction to IoT Penetration Testing
+#### BSIDES Philly 2017 & WOPR SUMMIT - Introduction to IoT Penetration Testing
 
 IoT devices are one of the biggest challenges for security professionals now and will continue to be in the future. The security of these devices is critical as more of these insecure devices come to market. As professional we need to have an idea how these devices effect our organization. In this talk we will explore the basic principles of IoT PenTesting, how to build an effective toolset, reverse engineering, and analyzing wireless signals with SRD.
 
 Talk: (https://www.irongeek.com/i.php?page=videos/bsidesphilly2017/bsidesphilly-cg04-iot-devices-are-one-of-the-biggest-challenges-charles-libertyunix-sgrillo)
+
+#### BSIDES Deleware & PumpCon - Exploiting IoT - An Introduction to BLE
+
+BLE is one of the most common wireless protocols used in IoT devices today. This talk will follow the BLE protocol and apply a 4 phases approach to assessing the security of these devices: Reconnaissance, Sniffing and Capturing, Extracting Sensitive Data, and Exploitation. This talk will demo exploits of IoT devices and walk attendees through the tools and processes to testing similar devices and creating their own CTF to practice on.
+
+Talk: https://www.youtube.com/watch?v=gqlXdqeIVGo
