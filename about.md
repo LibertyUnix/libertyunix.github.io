@@ -5,7 +5,7 @@ permalink: /about/
 ---
 ### About Me
 
-Libertyunix is currently a professor researching cyber and information security. His research has explored topics such as digital forensics, red team penetration testing, deep learning, IoT, and software defined radio. His graduate research thesis demonstrated the effects physical security systems can play in penetration testing and security assessments.
+Libertyunix is currently a red team professional & professor researching cyber and information security. His research has explored topics such as digital forensics, red team penetration testing, deep learning, IoT, and software defined radio. His graduate research thesis demonstrated the effects physical security systems can play in penetration testing and security assessments.
 
 ### Contact me
 
