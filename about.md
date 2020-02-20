@@ -30,7 +30,7 @@ IoT devices are one of the biggest challenges for security professionals now and
 
 Talk: (https://www.irongeek.com/i.php?page=videos/bsidesphilly2017/bsidesphilly-cg04-iot-devices-are-one-of-the-biggest-challenges-charles-libertyunix-sgrillo)
 
-#### BSIDES Deleware & PumpCon - Exploiting IoT - An Introduction to BLE
+#### BSIDES Delaware & PumpCon - Exploiting IoT - An Introduction to BLE
 
 BLE is one of the most common wireless protocols used in IoT devices today. This talk will follow the BLE protocol and apply a 4 phases approach to assessing the security of these devices: Reconnaissance, Sniffing and Capturing, Extracting Sensitive Data, and Exploitation. This talk will demo exploits of IoT devices and walk attendees through the tools and processes to testing similar devices and creating their own CTF to practice on.
 
