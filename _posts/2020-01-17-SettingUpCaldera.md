@@ -3,16 +3,16 @@ layout: post
 title: Setting Up Caldera & Atomic Red-Team
 ---
 
-###CALDERA is an automated adversary emulation system, built on the MITRE ATT&CK™ framework.
+### CALDERA is an automated adversary emulation system, built on the MITRE ATT&CK™ framework.
 
 
 ## Installation
-###Start by cloning this repository recursively. This will pull all available plugins.
+### Start by cloning this repository recursively. This will pull all available plugins.
 
 ```console
 git clone https://github.com/mitre/caldera.git --recursive
 ```
-###From the root of this project, install the PIP requirements.
+### From the root of this project, install the PIP requirements.
 
 ```
 pip3 install -r requirements.txt
@@ -36,7 +36,7 @@ pip3 install -r requirements.txt
 ```
 python3 server.py
 ```
-##Building Advanced Adversaries 
+## Building Advanced Adversaries 
 
 ### In the caldera/plugins/stockpile/abilities folder you will find various skills grouped by the MITRE ATTACK Framework ( Defense Evasion, Lateral Movement, Credential Access, Etc)
 
