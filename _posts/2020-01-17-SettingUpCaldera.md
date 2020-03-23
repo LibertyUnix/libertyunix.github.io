@@ -3,7 +3,7 @@ layout: post
 title: Setting Up Caldera & Atomic Red-Team
 ---
 
-### CALDERA is an automated adversary emulation system, built on the MITRE ATT&CK™ framework.
+## CALDERA is an automated adversary emulation system, built on the MITRE ATT&CK™ framework.
 
 
 ## Installation
